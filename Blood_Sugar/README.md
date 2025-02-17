@@ -57,5 +57,6 @@ In this challenge, you will focus on the following key tasks:
 - What's the risk of a person of Age 54, length 178 cm and weight 96 kg, and Glucose levels of 125 mg/dL getting diabetes?
 
 ## 💻 Explanation and Script
+In the next link I explain the steps I would follow to study this data.
 
-**[Tutorial](Analyses_route.ipynb)**
+📝 **[Analysis Route of the Project](Analyses_route.ipynb)**
